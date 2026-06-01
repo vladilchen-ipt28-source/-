@@ -43,3 +43,6 @@ pip install -r requirements.txt
 
 ### 4. Запуск блокнота
 Відкрийте Jupyter Notebook або скористайтеся розширенням Jupyter у VS Code для послідовного виконання комірок у файлі lab3.ipynb.
+```bash
+jupyter notebook lab3.ipynb
+```
