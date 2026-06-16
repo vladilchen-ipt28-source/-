@@ -1,6 +1,18 @@
+
 # Ігноруємо завантажений датасет ЛР №3
 *.csv
 *.data
 
 # Ігноруємо приховані кеш-папки Jupyter
 .ipynb_checkpoints/
+
+
+.ipynb_checkpoints/
+.streamlit/
+__pycache__/
+
+venv/
+vhi_data/
+*.ipynb
+
+
