@@ -1,0 +1,28 @@
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Кеш та налаштування IDE / редакторів
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Теки збірки, віртуальні середовища та кеш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+env/
+/bin/
+/build/
+
+# Файли з даними та датасети (не є частиною коду)
+*.txt
+*.csv
+*.json
+*.log
+vhi_data/
+household_power_consumption/
